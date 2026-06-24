@@ -1,0 +1,11 @@
+langchain
+langchain-community
+chromadb
+streamlit
+pandas
+PyPDF2
+python-dotenv
+transformers
+torch
+spark-ai-python
+openpyxl
